@@ -17,3 +17,10 @@ C:\Users\Aorus\Source\Repos\Doshik948\furry-barnacle\MyCompany\MyCompany\obj\Deb
 C:\Users\Aorus\Source\Repos\Doshik948\furry-barnacle\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\MyCompany.dll
 C:\Users\Aorus\Source\Repos\Doshik948\furry-barnacle\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\MyCompany.pdb
 C:\Users\Aorus\Source\Repos\Doshik948\furry-barnacle\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\MyCompany.genruntimeconfig.cache
+C:\Users\Aorus\Source\Repos\Doshik948\furry-barnacle\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\MyCompany.RazorAssemblyInfo.cache
+C:\Users\Aorus\Source\Repos\Doshik948\furry-barnacle\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\MyCompany.RazorAssemblyInfo.cs
+C:\Users\Aorus\Source\Repos\Doshik948\furry-barnacle\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\MyCompany.TagHelpers.input.cache
+C:\Users\Aorus\Source\Repos\Doshik948\furry-barnacle\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\MyCompany.TagHelpers.output.cache
+C:\Users\Aorus\Source\Repos\Doshik948\furry-barnacle\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\MyCompany.RazorCoreGenerate.cache
+C:\Users\Aorus\Source\Repos\Doshik948\furry-barnacle\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Aorus\Source\Repos\Doshik948\furry-barnacle\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\MyCompany.RazorTargetAssemblyInfo.cs
